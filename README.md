@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Righan+%F0%9F%91%8B;Full+Stack+Web+Developer;Networking+%26+Infrastructure;PHP+%7C+Laravel+%7C+JavaScript+%7C+Node.js+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Righan+%F0%9F%91%8B;Full+Stack+Web+Developer;Networking+%26+Infrastructure" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -136,6 +136,17 @@ Full Stack Development
     ├── PoE Devices
     └── Network Troubleshooting
 ```
+
+---
+
+## Featured Projects
+
+- [Web Profile Kampus](https://github.com/RiganJ/Web-Profile-Kampus)
+- [Employee Management Information System](https://github.com/RiganJ/employee-management-information-system)
+- [Web Laundry Eazy Cleaner Center](https://github.com/RiganJ/web-laundry-eazy-cleaner-center)
+- [Web Informasi Kerjasama](https://github.com/RiganJ/Web-Informasi-Kerjasama)
+- [E-Office On Going](https://github.com/RiganJ/E-Office-On-Going)
+- [Sistem Informasi Akademik Mahasiswa](https://github.com/RiganJ/Sistem-Informasi-Akademik-Mahasiswa)
 
 ---
 
