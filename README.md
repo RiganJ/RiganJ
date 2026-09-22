@@ -147,6 +147,6 @@ I'm open to opportunities and discussions related to full stack web development,
   <a href="https://github.com/RighanJ"><img src="https://img.shields.io/badge/GitHub-RighanJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.instagram.com/righannnn/"><img src="https://img.shields.io/badge/Instagram-@righannnn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.tiktok.com/@riganverse"><img src="https://img.shields.io/badge/TikTok-@riganverse-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/62XXXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:your.righan.j13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/6281915895228"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
