@@ -141,12 +141,23 @@ Full Stack Development
 
 ## Featured Projects
 
-- [Web Profile Kampus](https://github.com/RiganJ/Web-Profile-Kampus)
-- [Employee Management Information System](https://github.com/RiganJ/employee-management-information-system)
-- [Web Laundry Eazy Cleaner Center](https://github.com/RiganJ/web-laundry-eazy-cleaner-center)
-- [Web Informasi Kerjasama](https://github.com/RiganJ/Web-Informasi-Kerjasama)
-- [E-Office On Going](https://github.com/RiganJ/E-Office-On-Going)
-- [Sistem Informasi Akademik Mahasiswa](https://github.com/RiganJ/Sistem-Informasi-Akademik-Mahasiswa)
+- [Web Profile Kampus](https://github.com/RiganJ/Web-Profile-Kampus)  
+  Portal informasi universitas dan panel admin berbasis Laravel. Aplikasi ini menampilkan profil kampus, berita, program studi, kerja sama, akreditasi, kontak, hingga fitur live chat dan manajemen konten untuk kebutuhan publik dan admin.
+
+- [Employee Management Information System](https://github.com/RiganJ/employee-management-information-system)  
+  Sistem manajemen kepegawaian berbasis web yang mencakup data pegawai, kehadiran, cuti, izin keterlambatan, kinerja, payroll, monitoring SDM, serta integrasi dengan data SIAK dan fingerprint.
+
+- [Web Laundry Eazy Cleaner Center](https://github.com/RiganJ/web-laundry-eazy-cleaner-center)  
+  Proyek berbasis Laravel untuk layanan laundry. README repositori ini masih menggunakan template default Laravel, sehingga deskripsi spesifik fitur bisnis belum dijelaskan secara detail di dokumentasi proyek.
+
+- [Web Informasi Kerjasama](https://github.com/RiganJ/Web-Informasi-Kerjasama)  
+  Aplikasi sistem informasi kerja sama yang mengelola pengajuan mitra, dokumen MoU/MoA/IA, masa berlaku kerja sama, laporan realisasi, serta ekspor data ke Excel/PDF untuk kebutuhan evaluasi dan administrasi.
+
+- [E-Office On Going](https://github.com/RiganJ/E-Office-On-Going)  
+  Aplikasi e-office untuk mengelola dokumen pemerintahan atau organisasi, mulai dari pembuatan dokumen, workflow persetujuan, disposisi, penomoran, arsip, hingga validasi dokumen dengan QR code dan notifikasi aktivitas.
+
+- [Sistem Informasi Akademik Mahasiswa](https://github.com/RiganJ/Sistem-Informasi-Akademik-Mahasiswa)  
+  Sistem informasi akademik mahasiswa yang mencakup portal mahasiswa, dosen, dan BAAK dengan fitur KRS, KHS, nilai, presensi, layanan akademik, tugas akhir, serta integrasi data PMB dan SIMPEG.
 
 ---
 
