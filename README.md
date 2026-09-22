@@ -98,13 +98,13 @@ A brief description of a project that demonstrates your ability to build complet
 
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RiganJ&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
-    alt="Rigan's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=RighanJ&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
+    alt="Righan's GitHub Stats"
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiganJ&layout=compact&hide_border=true&theme=transparent" 
-    alt="Rigan's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RighanJ&layout=compact&hide_border=true&theme=transparent" 
+    alt="Righan's Top Languages"
     height="170"
   />
 </p>
