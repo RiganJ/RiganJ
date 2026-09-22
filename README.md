@@ -1,43 +1,55 @@
-# Hi, I'm Rigan 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Righan+%F0%9F%91%8B;Full+Stack+Web+Developer;Networking+%26+Infrastructure;PHP+%7C+Laravel+%7C+JavaScript+%7C+Node.js+%7C+MySQL" alt="Typing SVG" />
+</p>
 
-### Software Engineer | Backend Developer
-
-I build reliable, maintainable, and scalable web applications with a focus on backend development, REST APIs, and database-driven systems.
-
-My primary experience includes PHP, Laravel, Node.js, JavaScript, and MySQL. I enjoy designing clean architectures, improving application performance, and turning business requirements into practical software solutions.
+<p align="center">
+  <b>Building reliable web applications and connected systems.</b>
+</p>
 
 ---
 
-## About Me
+# Hi, I'm Righan 👋
+
+### Full Stack Developer | Network Administrator
+
+<p align="center">
+
+
+I build reliable, maintainable, and scalable web applications while also working with networking and infrastructure.
 
 <p>
-  <img src="https://api.iconify.design/fa6-solid/code.svg?color=white" width="18" />
-  Software Engineer focused on backend development
+  <img src="https://api.iconify.design/fa6-solid/server.svg?color=white" width="18" />
+  Experienced with PHP, Laravel, Node.js, REST APIs, and backend development
 </p>
 
 <p>
-  <img src="https://api.iconify.design/fa6-solid/gears.svg?color=white" width="18" />
-  Experienced with PHP, Laravel, Node.js, and REST API development
+  <img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=white" width="18" />
+  Comfortable building responsive frontend interfaces using HTML, CSS, JavaScript, and Bootstrap
 </p>
 
 <p>
   <img src="https://api.iconify.design/fa6-solid/database.svg?color=white" width="18" />
-  Comfortable working with MySQL and relational database design
+  Experienced with MySQL, relational database design, SQL queries, and data relationships
 </p>
 
 <p>
-  <img src="https://api.iconify.design/fa6-solid/lock.svg?color=white" width="18" />
-  Interested in secure, scalable, and maintainable applications
+  <img src="https://api.iconify.design/fa6-solid/network-wired.svg?color=white" width="18" />
+  Hands-on experience with TCP/IP, DHCP, LAN, switches, access points, PoE devices, and network troubleshooting
+</p>
+
+<p>
+  <img src="https://api.iconify.design/fa6-solid/shield-halved.svg?color=white" width="18" />
+  Interested in secure, scalable, and maintainable systems
 </p>
 
 <p>
   <img src="https://api.iconify.design/fa6-brands/git-alt.svg?color=white" width="18" />
-  Familiar with Git-based workflows and collaborative development
+  Familiar with Git-based workflows, version control, and collaborative development
 </p>
 
 <p>
   <img src="https://api.iconify.design/fa6-solid/book-open.svg?color=white" width="18" />
-  Continuously learning new technologies and improving engineering practices
+  Continuously learning software engineering, networking, deployment, and system integration
 </p>
 
 ---
@@ -47,116 +59,94 @@ My primary experience includes PHP, Laravel, Node.js, JavaScript, and MySQL. I e
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
-### Frontend and APIs
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### Database and Tools
+### API & Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+### Networking & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-Networking-0A66C2?style=for-the-badge" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/DHCP-Network_Config-006400?style=for-the-badge" alt="DHCP" />
+  <img src="https://img.shields.io/badge/LAN-Networking-444444?style=for-the-badge" alt="LAN" />
+  <img src="https://img.shields.io/badge/Switching-Networking-555555?style=for-the-badge" alt="Switching" />
+  <img src="https://img.shields.io/badge/Wireless-Access_Point-7A5AF8?style=for-the-badge" alt="Access Point" />
+  <img src="https://img.shields.io/badge/PoE-Networking-3A7D44?style=for-the-badge" alt="PoE" />
 </p>
 
 ---
 
-## Featured Projects
+## What I Work With
 
-### [Project Name One](https://github.com/RiganJ/project-one)
-
-A brief description of the project, the problem it solves, and your contribution.
-
-**Highlights:**
-
-- Built a REST API using Laravel
-- Designed database structure and relationships with MySQL
-- Implemented authentication and authorization
-- Added validation, error handling, and API documentation
-
-**Technologies:** PHP, Laravel, MySQL, REST API
-
----
-
-### [Project Name Two](https://github.com/RiganJ/project-two)
-
-A brief description of another project that demonstrates your backend, JavaScript, or Node.js experience.
-
-**Highlights:**
-
-- Developed backend services with Node.js
-- Integrated third-party APIs
-- Created reusable business logic and service modules
-- Used Git for version control and collaborative development
-
-**Technologies:** JavaScript, Node.js, REST API, MySQL
-
----
-
-### [Project Name Three](https://github.com/RiganJ/project-three)
-
-A brief description of a project that demonstrates your ability to build complete, maintainable software solutions.
-
-**Highlights:**
-
-- Created a structured and maintainable application architecture
-- Implemented CRUD functionality and database operations
-- Improved application reliability through validation and error handling
-- Documented setup instructions and API usage
-
-**Technologies:** PHP, Laravel, JavaScript, MySQL
-
----
-
-## GitHub Stats
-
-## GitHub Activity
-
-- Building backend applications with Laravel
-- Working with REST APIs and MySQL
-- Learning automated testing and system integration
-- Improving software architecture and deployment workflows
+```text
+Full Stack Development
+├── Backend
+│   ├── PHP
+│   ├── Laravel
+│   ├── Node.js
+│   ├── REST API
+│   └── Authentication & Authorization
+│
+├── Frontend
+│   ├── HTML
+│   ├── CSS
+│   ├── JavaScript
+│   └── Bootstrap
+│
+├── Database
+│   ├── MySQL
+│   ├── Relational Database Design
+│   ├── SQL Queries
+│   └── Data Relationships
+│
+└── Networking & Infrastructure
+    ├── TCP/IP
+    ├── IP Addressing
+    ├── DHCP
+    ├── LAN Configuration
+    ├── Network Switches
+    ├── Wireless Access Points
+    ├── PoE Devices
+    └── Network Troubleshooting
+```
 
 ---
 
 ## Contact
 
-I'm open to software engineering opportunities, backend development, and interesting technical projects.
+I'm open to opportunities and discussions related to full stack web development, software engineering, networking, infrastructure, and system integration.
 
 <p align="left">
-  <a href="https://github.com/RighanJ">
-    <img 
-      src="https://img.shields.io/badge/GitHub-RighanJ-181717?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:your.email@example.com">
-    <img 
-      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building practical software, one system at a time.</i>
+  <a href="https://www.linkedin.com/in/rigan-jevi-pangestu-43204b302/"><img src="https://img.shields.io/badge/LinkedIn-Rigan_Jevi_Pangestu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/RighanJ"><img src="https://img.shields.io/badge/GitHub-RighanJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.instagram.com/righannnn/"><img src="https://img.shields.io/badge/Instagram-@righannnn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@riganverse"><img src="https://img.shields.io/badge/TikTok-@riganverse-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/62XXXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
