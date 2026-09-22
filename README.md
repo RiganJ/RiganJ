@@ -118,6 +118,7 @@ Full Stack Development
 │   ├── CSS
 │   ├── JavaScript
 │   └── Bootstrap
+│   └── Vite.js
 │
 ├── Database
 │   ├── MySQL
