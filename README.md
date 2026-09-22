@@ -10,12 +10,35 @@ My primary experience includes PHP, Laravel, Node.js, JavaScript, and MySQL. I e
 
 ## About Me
 
-- 💻 Software Engineer focused on backend development
-- ⚙️ Experienced with PHP, Laravel, Node.js, and REST API development
-- 🗄️ Comfortable working with MySQL and relational database design
-- 🔐 Interested in secure, scalable, and maintainable applications
-- 🔧 Familiar with Git-based workflows and collaborative development
-- 📚 Continuously learning new technologies and improving engineering practices
+<p>
+  <img src="https://api.iconify.design/fa6-solid/code.svg?color=white" width="18" />
+  Software Engineer focused on backend development
+</p>
+
+<p>
+  <img src="https://api.iconify.design/fa6-solid/gears.svg?color=white" width="18" />
+  Experienced with PHP, Laravel, Node.js, and REST API development
+</p>
+
+<p>
+  <img src="https://api.iconify.design/fa6-solid/database.svg?color=white" width="18" />
+  Comfortable working with MySQL and relational database design
+</p>
+
+<p>
+  <img src="https://api.iconify.design/fa6-solid/lock.svg?color=white" width="18" />
+  Interested in secure, scalable, and maintainable applications
+</p>
+
+<p>
+  <img src="https://api.iconify.design/fa6-brands/git-alt.svg?color=white" width="18" />
+  Familiar with Git-based workflows and collaborative development
+</p>
+
+<p>
+  <img src="https://api.iconify.design/fa6-solid/book-open.svg?color=white" width="18" />
+  Continuously learning new technologies and improving engineering practices
+</p>
 
 ---
 
@@ -96,34 +119,39 @@ A brief description of a project that demonstrates your ability to build complet
 
 ## GitHub Stats
 
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RighanJ&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
-    alt="Righan's GitHub Stats"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RighanJ&layout=compact&hide_border=true&theme=transparent" 
-    alt="Righan's Top Languages"
-    height="170"
-  />
-</p>
+## GitHub Activity
+
+- Building backend applications with Laravel
+- Working with REST APIs and MySQL
+- Learning automated testing and system integration
+- Improving software architecture and deployment workflows
 
 ---
 
 ## Contact
 
-I'm open to discussing software engineering opportunities, backend development, and interesting technical projects.
+I'm open to software engineering opportunities, backend development, and interesting technical projects.
 
-<p>
-  <a href="https://github.com/RiganJ">
-    <img src="https://img.shields.io/badge/GitHub-RiganJ-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<p align="left">
+  <a href="https://github.com/RighanJ">
+    <img 
+      src="https://img.shields.io/badge/GitHub-RighanJ-181717?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img 
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    />
   </a>
 </p>
 
