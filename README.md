@@ -3,58 +3,37 @@
 </p>
 
 <p align="center">
-  <b>Building reliable web applications and connected systems.</b>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-# Hi, I'm Righan 👋
-
-### Full Stack Developer | Network Administrator
+<h1 align="center">Hi, I'm Righan 👋</h1>
 
 <p align="center">
-
-
-I build reliable, maintainable, and scalable web applications while also working with networking and infrastructure.
-
-<p>
-  <img src="https://api.iconify.design/fa6-solid/server.svg?color=white" width="18" />
-  Experienced with PHP, Laravel, Node.js, REST APIs, and backend development
+  <b>Full Stack Developer | Network Administrator</b>
 </p>
 
-<p>
-  <img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=white" width="18" />
-  Comfortable building responsive frontend interfaces using HTML, CSS, JavaScript, and Bootstrap
-</p>
-
-<p>
-  <img src="https://api.iconify.design/fa6-solid/database.svg?color=white" width="18" />
-  Experienced with MySQL, relational database design, SQL queries, and data relationships
-</p>
-
-<p>
-  <img src="https://api.iconify.design/fa6-solid/network-wired.svg?color=white" width="18" />
-  Hands-on experience with TCP/IP, DHCP, LAN, switches, access points, PoE devices, and network troubleshooting
-</p>
-
-<p>
-  <img src="https://api.iconify.design/fa6-solid/shield-halved.svg?color=white" width="18" />
-  Interested in secure, scalable, and maintainable systems
-</p>
-
-<p>
-  <img src="https://api.iconify.design/fa6-brands/git-alt.svg?color=white" width="18" />
-  Familiar with Git-based workflows, version control, and collaborative development
-</p>
-
-<p>
-  <img src="https://api.iconify.design/fa6-solid/book-open.svg?color=white" width="18" />
-  Continuously learning software engineering, networking, deployment, and system integration
+<p align="center">
+  I build reliable, maintainable, and scalable web applications while also working with networking and infrastructure.
 </p>
 
 ---
 
-## Tech Stack
+## 🧠 About Me
+
+- Experienced in <b>PHP</b>, <b>Laravel</b>, <b>Node.js</b>, and backend system development
+- Comfortable with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and modern frontend interfaces
+- Focused on <b>database design</b>, <b>REST API</b>, and clean application architecture
+- Also working hands-on in <b>networking</b>, <b>LAN</b>, <b>DHCP</b>, <b>switching</b>, and infrastructure support
+- Passionate about building systems that are secure, scalable, and easy to maintain
+
+---
+
+## 🛠️ Tech Stack
 
 ### Backend
 
@@ -62,6 +41,7 @@ I build reliable, maintainable, and scalable web applications while also working
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
 </p>
 
 ### Frontend
@@ -73,103 +53,100 @@ I build reliable, maintainable, and scalable web applications while also working
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### API & Database
+### Database & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### Development Tools
-
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-### Networking & Infrastructure
+### Networking
 
 <p>
   <img src="https://img.shields.io/badge/TCP%2FIP-Networking-0A66C2?style=for-the-badge" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/DHCP-Network_Config-006400?style=for-the-badge" alt="DHCP" />
   <img src="https://img.shields.io/badge/LAN-Networking-444444?style=for-the-badge" alt="LAN" />
-  <img src="https://img.shields.io/badge/Switching-Networking-555555?style=for-the-badge" alt="Switching" />
   <img src="https://img.shields.io/badge/Wireless-Access_Point-7A5AF8?style=for-the-badge" alt="Access Point" />
   <img src="https://img.shields.io/badge/PoE-Networking-3A7D44?style=for-the-badge" alt="PoE" />
 </p>
 
 ---
 
-## What I Work With
+## ✨ Featured Projects
 
-```text
-Full Stack Development
-├── Backend
-│   ├── PHP
-│   ├── Laravel
-│   ├── Node.js
-│   ├── REST API
-│   └── Authentication & Authorization
-│
-├── Frontend
-│   ├── HTML
-│   ├── CSS
-│   ├── JavaScript
-│   └── Bootstrap
-│   └── Vite.js
-│
-├── Database
-│   ├── MySQL
-│   ├── Relational Database Design
-│   ├── SQL Queries
-│   └── Data Relationships
-│
-└── Networking & Infrastructure
-    ├── TCP/IP
-    ├── IP Addressing
-    ├── DHCP
-    ├── LAN Configuration
-    ├── Network Switches
-    ├── Wireless Access Points
-    ├── PoE Devices
-    └── Network Troubleshooting
-```
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/RiganJ/Web-Profile-Kampus">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiganJ&repo=Web-Profile-Kampus&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff" alt="Web Profile Kampus" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/RiganJ/employee-management-information-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiganJ&repo=employee-management-information-system&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff" alt="Employee Management Information System" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/RiganJ/Web-Informasi-Kerjasama">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiganJ&repo=Web-Informasi-Kerjasama&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff" alt="Web Informasi Kerjasama" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/RiganJ/E-Office-On-Going">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiganJ&repo=E-Office-On-Going&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff" alt="E-Office On Going" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/RiganJ/Sistem-Informasi-Akademik-Mahasiswa">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiganJ&repo=Sistem-Informasi-Akademik-Mahasiswa&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff" alt="Sistem Informasi Akademik Mahasiswa" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/RiganJ/web-laundry-eazy-cleaner-center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RiganJ&repo=web-laundry-eazy-cleaner-center&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff" alt="Web Laundry Eazy Cleaner Center" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-## Featured Projects
-
-- [Web Profile Kampus](https://github.com/RiganJ/Web-Profile-Kampus)  
-  Portal informasi universitas dan panel admin berbasis Laravel. Aplikasi ini menampilkan profil kampus, berita, program studi, kerja sama, akreditasi, kontak, hingga fitur live chat dan manajemen konten untuk kebutuhan publik dan admin.
-
-- [Employee Management Information System](https://github.com/RiganJ/employee-management-information-system)  
-  Sistem manajemen kepegawaian berbasis web yang mencakup data pegawai, kehadiran, cuti, izin keterlambatan, kinerja, payroll, monitoring SDM, serta integrasi dengan data SIAK dan fingerprint.
-
-- [Web Laundry Eazy Cleaner Center](https://github.com/RiganJ/web-laundry-eazy-cleaner-center)  
-  Proyek berbasis Laravel untuk layanan laundry. README repositori ini masih menggunakan template default Laravel, sehingga deskripsi spesifik fitur bisnis belum dijelaskan secara detail di dokumentasi proyek.
-
-- [Web Informasi Kerjasama](https://github.com/RiganJ/Web-Informasi-Kerjasama)  
-  Aplikasi sistem informasi kerja sama yang mengelola pengajuan mitra, dokumen MoU/MoA/IA, masa berlaku kerja sama, laporan realisasi, serta ekspor data ke Excel/PDF untuk kebutuhan evaluasi dan administrasi.
-
-- [E-Office On Going](https://github.com/RiganJ/E-Office-On-Going)  
-  Aplikasi e-office untuk mengelola dokumen pemerintahan atau organisasi, mulai dari pembuatan dokumen, workflow persetujuan, disposisi, penomoran, arsip, hingga validasi dokumen dengan QR code dan notifikasi aktivitas.
-
-- [Sistem Informasi Akademik Mahasiswa](https://github.com/RiganJ/Sistem-Informasi-Akademik-Mahasiswa)  
-  Sistem informasi akademik mahasiswa yang mencakup portal mahasiswa, dosen, dan BAAK dengan fitur KRS, KHS, nilai, presensi, layanan akademik, tugas akhir, serta integrasi data PMB dan SIMPEG.
+<p align="center">
+  <b>Portal Kampus • HR Management • Coorporation Information • Academic System • E-Office • Laundry Service</b>
+</p>
 
 ---
 
-## Contact
+## 📌 Project Highlights
+
+- <b>Web Profile Kampus</b> — portal informasi universitas with public pages, admin content management, and live chat
+- <b>Employee Management Information System</b> — workforce management covering attendance, payroll, performance, and HR workflows
+- <b>Web Informasi Kerjasama</b> — collaboration management system for partnerships, MoU/MoA/IA, reporting, and document tracking
+- <b>E-Office On Going</b> — document workflow and archiving platform with approval flow, QR validation, and dispositions
+- <b>Sistem Informasi Akademik Mahasiswa</b> — academic portal for students, lecturers, and BAAK with KRS, grades, and student administration features
+- <b>Web Laundry Eazy Cleaner Center</b> — service website for a laundry business with digital order and business process support
+
+---
+
+## 📬 Contact
 
 I'm open to opportunities and discussions related to full stack web development, software engineering, networking, infrastructure, and system integration.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rigan-jevi-pangestu-43204b302/"><img src="https://img.shields.io/badge/LinkedIn-Rigan_Jevi_Pangestu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/RighanJ"><img src="https://img.shields.io/badge/GitHub-RighanJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.instagram.com/righannnn/"><img src="https://img.shields.io/badge/Instagram-@righannnn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@riganverse"><img src="https://img.shields.io/badge/TikTok-@riganverse-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="mailto:your.righan.j13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/6281915895228"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/rigan-jevi-pangestu-43204b302/"><img src="https://img.shields.io/badge/LinkedIn-Rigan_Jevi_Pangestu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/RighanJ"><img src="https://img.shields.io/badge/GitHub-RighanJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/righannnn/"><img src="https://img.shields.io/badge/Instagram-@righannnn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@riganverse"><img src="https://img.shields.io/badge/TikTok-@riganverse-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:your.righan.j13@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/6281915895228"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RighanJ&label=Profile+Views&color=0d1117&style=flat" alt="Profile Views" />
 </p>
